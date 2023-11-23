@@ -2,6 +2,7 @@
 Pandas dataframe challenge
 
 #Analysis Summary
+
 In the district, there are a total of 15 schools and 39,170 students. The total budget for all the schools is $24,649,428. Passing percentages for math and reading in all the schools are 74.98% and 85.80% respectively. The overall passing percentage in the school district is 65.17%.
 The top 5 highest performing schools are all charter schools – Cabrera High School, Thomas High School, Griffin High School, Wilson High School, and Pena High School.
 The bottom 5 lowest-performing schools are all district schools – Rodriguez High School, Figueroa High School, Huang High School, Hernandez High School, and Johnson High School.
